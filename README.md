@@ -6,10 +6,10 @@
 
 > Если у вас есть другой вопрос, то вы можете просмотреть список других баг-трекеров, которые могут вам помочь
 
-* <h3>[скайблок острова](https://github.com/AWRLD/skyblock_bug-tracker/issues)</h3>
+* [скайблок острова](https://github.com/AWRLD/skyblock_bug-tracker/issues)
 
-* <h3>[арены](https://github.com/AWRLD/arenas_bug-tracker/issues)</h3>
+* [арены](https://github.com/AWRLD/arenas_bug-tracker/issues)
 
-* <h3[>монстры](https://github.com/AWRLD/monsters_bug-tracker/issues)</h3>
+* [монстры](https://github.com/AWRLD/monsters_bug-tracker/issues)
 
-* <h3>[разное](https://github.com/AWRLD/other_bug-tracker/issues)</h3>
+* [разное](https://github.com/AWRLD/other_bug-tracker/issues)
